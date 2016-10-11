@@ -4,7 +4,7 @@
 
 Submitted by: **Steve Cho**
 
-Time spent: 3 hours and counting (TODO)
+Time spent: 5 hours and counting (TODO)
 
 URL: **heroku-app-url**
 
