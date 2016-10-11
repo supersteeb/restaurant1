@@ -6,6 +6,7 @@ class HomeController < ApplicationController
   	if params[:section]
   		@section = Section.where(name: params[:section]).first
   	end
+  	@food_items = FoodItem.filter_by_section(params[:section])
   end
 
   def contact_us
